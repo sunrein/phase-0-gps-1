@@ -10,3 +10,4 @@ subl - open file in sublime
 git checkout - changes branch
 git checkout -b - creates branch
 git push origin master - pushes local commit to remote, in this case directly to master branch
+
